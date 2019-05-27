@@ -1,0 +1,25 @@
+a, a :hover {
+  color: #fff;
+  text-decoration: none !important;
+}
+
+.git-href {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:#fff;
+}
+
+.git-href :hover{
+  color:#fff;
+}
+
+.git-href > span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.docs-github-logo {
+  margin-right: 5px;
+}

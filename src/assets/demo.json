@@ -1,0 +1,47 @@
+{
+   "_id": "5994816d247969835eb0a95c",
+   "title": "E.T. the Extra-Terrestrial",
+   "year": 1982,
+   "rated": "PG",
+   "runtime": 115,
+   "countries": [
+      "USA"
+   ],
+   "genres": [
+      "Family",
+      "Sci-Fi"
+   ],
+   "director": "Steven Spielberg",
+   "writers": [
+      "Melissa Mathison"
+   ],
+   "actors": [
+      "Dee Wallace",
+      "Henry Thomas",
+      "Peter Coyote",
+      "Robert MacNaughton"
+   ],
+   "imdb": {
+      "id": "tt0083866",
+      "rating": 7.9,
+      "votes": 264913
+   },
+   "tomato": {
+      "meter": 98,
+      "image": "certified",
+      "rating": 9.2,
+      "reviews": 111,
+      "fresh": 109,
+      "consensus": "Playing as both an exciting sci-fi adventure and a remarkable portrait of childhood, Steven Spielberg's touching tale of a homesick alien remains a piece of movie magic for young and old.",
+      "userMeter": 71,
+      "userRating": 3.5,
+      "userReviews": 32310979
+   },
+   "metacritic": 94,
+   "awards": {
+      "wins": 46,
+      "nominations": 32,
+      "text": "Won 4 Oscars. Another 46 wins & 32 nominations."
+   },
+   "type": "movie"
+}
